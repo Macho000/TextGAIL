@@ -3,8 +3,8 @@ hydra:
       dir: ./outputs/CommonGEN # ./outputs/${now:%Y-%m-%d}/${now:%H-%M-%S} #./outputs/exp1 # 
 defaults:
     - task: CommonGEN
-    - hydra/job_logging: colorlog
-    - hydra/hydra_logging: colorlog
+    # - hydra/job_logging: colorlog
+    # - hydra/hydra_logging: colorlog
     - training: CommonGEN
     - model: roberta-tokenized-gpt2
     - text_gail: CommonGEN

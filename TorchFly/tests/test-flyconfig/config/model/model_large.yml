@@ -1,3 +1,0 @@
-model:
-    num_layers: 8
-    hidden_size: 256
