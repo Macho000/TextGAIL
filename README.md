@@ -70,7 +70,3 @@ We have provided generated outputs along with the generated outputs for evaluati
   year      = {2021},
 }
 ```
-
-## Contact
-
-Feel free to contact me (wilwu@ucdavis.edu) if you have any questions.
