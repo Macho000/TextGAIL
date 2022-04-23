@@ -1,0 +1,15 @@
+flyconfig:
+    run:
+        # Specify the working directory
+        # ./outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
+        dir: ./outputs/${task.name}
+subconfigs:
+    - task: ${task.name}
+    - training: ${task.name}
+    - model: roberta-tokenized-gpt2
+    - text_gail: ${task.name}
+    - decode: default
+task:
+    name: WebQuestion
+
+# CommonGEN, ROCStories
