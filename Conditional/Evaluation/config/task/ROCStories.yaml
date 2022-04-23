@@ -1,5 +1,0 @@
-task:
-    name: ROCStories
-    data_dir: ../../../../data/ROCStories
-    mle_weights_path: ""
-    textgail_weights_path:  ""

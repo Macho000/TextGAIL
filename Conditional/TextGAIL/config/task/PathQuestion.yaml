@@ -1,4 +1,0 @@
-task:
-    name: PathQuestion
-    data_dir: ../../../../data/PathQuestion
-    weights_path: ""

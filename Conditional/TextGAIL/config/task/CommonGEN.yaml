@@ -1,4 +1,0 @@
-task:
-    name: CommonGEN
-    data_dir: ../../../../data/CommonGEN
-    weights_path: ""

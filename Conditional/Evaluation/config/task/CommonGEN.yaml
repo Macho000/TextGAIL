@@ -1,5 +1,0 @@
-task:
-    name: CommonGEN
-    data_dir: ../../data/CommonGEN
-    mle_weights_path: "../MLE/outputs/CommonGEN/Checkpoints/iter_252_model_state.pth"
-    textgail_weights_path:  "../TextGAIL/outputs/CommonGEN/Checkpoints/iter_999_model_state.pth"
