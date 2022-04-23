@@ -1,0 +1,4 @@
+task:
+    name: WebQuestion
+    data_dir: ../../../../data/WebQuestion
+    weights_path: ""

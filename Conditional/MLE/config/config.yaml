@@ -8,6 +8,6 @@ flyconfig:
         # ./outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
         dir: ./outputs/${task.name}
 task:
-    name: CommonGEN
+    name: WebQuestion
 
 # tasks in ROCStories, CommonGEN

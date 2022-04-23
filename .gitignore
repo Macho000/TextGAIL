@@ -1,5 +1,4 @@
 # data
-data
 !torchfly/training/data
 *.arrow
 *.hdf5

@@ -1,0 +1,3 @@
+task:
+    name: WebQuestion
+    data_dir: ../../../../data/WebQuestion
